@@ -1,0 +1,15 @@
+# Ignore virtual environment
+final_env/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints (optional if large)
+*.h5
+*.pt
+
+# Ignore system files
+.DS_Store
